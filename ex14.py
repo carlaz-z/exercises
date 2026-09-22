@@ -20,7 +20,7 @@ path=pdbl.retrieve_pdb_file(args.pdbid, pdir=".", file_format="pdb")
 parser2= PDBParser(QUIET=True)
 st = parser2.get_structure(args.pdbid,path)
 
-#DESARROLANDO TODO LO DEMÁSS
+#looking for CA atom and their resiudes
 selected=[]
 for model in st:
     for chain in model:
