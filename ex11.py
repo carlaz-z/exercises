@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Sep 17 18:42:04 2026
 
-@author: Nubian
-"""
 import argparse
 from Bio.PDB import *
 from Bio.PDB.NeighborSearch import NeighborSearch
