@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Sep 19 16:14:10 2026
 
-@author: zarlac
-"""
 import argparse
 from Bio.PDB import *
 from Bio.PDB.NeighborSearch import NeighborSearch
