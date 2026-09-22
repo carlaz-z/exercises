@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Sep 17 19:54:43 2026
 
-@author: zarlac
-"""
 import argparse
 from Bio.PDB import *
 from Bio.PDB.PDBParser import PDBParser
