@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Sep 19 15:12:57 2026
 
-@author: zarlac
-"""
 import argparse
 from Bio.PDB import *
 from Bio.PDB.PDBParser import PDBParser
